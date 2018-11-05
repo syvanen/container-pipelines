@@ -1,4 +1,4 @@
-APPLICATION_NAME=basic-spring-boot
+APPLICATION_NAME=toni-basic-spring-boot
 NAMESPACE=toni-basic-spring-boot-stage
 SA_NAME=jenkins
 SA_NAMESPACE=toni-basic-spring-boot-build
